@@ -18,3 +18,5 @@ Projeto em **React + Vite + TypeScript** para o Checkpoint 05 de Front-end Engin
 npm install
 npm run dev
 
+## Link do Deploy
+ https://cp-5-noticias.vercel.app/
